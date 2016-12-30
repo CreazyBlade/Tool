@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tools</string>
+
+    <string name="Sunday">日</string>
+    <string name="Monday">一</string>
+    <string name="Tuesday">二</string>
+    <string name="Wednesday">三</string>
+    <string name="Thursday">四</string>
+    <string name="Friday">五</string>
+    <string name="Saturday">六</string>
+
+    <string-array name="week_ch">
+        <item>@string/Sunday</item>
+        <item>@string/Monday</item>
+        <item>@string/Tuesday</item>
+        <item>@string/Wednesday</item>
+        <item>@string/Thursday</item>
+        <item>@string/Friday</item>
+        <item>@string/Saturday</item>
+    </string-array>
+</resources>

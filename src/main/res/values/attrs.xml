@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageViewPager">
+        <attr name="maxHeight" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="EvaluateRatingBar">
+        <attr name="starNum" format="integer" />
+        <attr name="starGap" format="dimension" />
+        <attr name="starSelected" format="float"/>
+        <attr name="isIndicator" format="boolean"/>
+    </declare-styleable>
+</resources>
